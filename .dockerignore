@@ -4,3 +4,4 @@ Dockerfile
 .dockerignore
 /vendor/
 composer.phar
+composer.json
